@@ -144,7 +144,7 @@ export default function Home() {
             <Card>
                 <CardHeader className="justify-between p-10">
                     <div className="flex gap-5">
-                        <Avatar isBordered radius="full" size="md" src="https://nextui.org/avatars/avatar-1.png" />
+                        <Avatar isBordered radius="full" size="md" src="https://nextui.org/avatars/avatar-3.png" />
                         <div className="flex flex-col gap-1 items-start justify-center">
                             <h4 className="text-xl font-bold leading-none text-default-600">Ana Silva</h4>
                             <h5 className="text-xl tracking-tight text-default-400">Marketing Digital</h5>
@@ -160,7 +160,7 @@ export default function Home() {
             <Card>
                 <CardHeader className="justify-between p-10">
                     <div className="flex gap-5">
-                        <Avatar isBordered radius="full" size="md" src="https://nextui.org/avatars/avatar-1.png" />
+                        <Avatar isBordered radius="full" size="md" src="https://nextui.org/avatars/avatar-8.png" />
                         <div className="flex flex-col gap-1 items-start justify-center">
                             <h4 className="text-xl font-bold leading-none text-default-600">Carlos Souza</h4>
                             <h5 className="text-xl tracking-tight text-default-400">Redator Freelance</h5>
